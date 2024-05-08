@@ -2,7 +2,7 @@
 
 This is a simple website showcasing EcoFlow's range of portable power stations. Each product is displayed on a 3D flip card, providing product information and a "Buy Now" button that links to the EcoFlow website for purchasing.
 
-![https://us.ecoflow.com](preview.png)
+![https://us.ecoflow.com](image.png)
 
 ## Features
 

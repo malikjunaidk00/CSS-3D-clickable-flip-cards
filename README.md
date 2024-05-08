@@ -22,3 +22,16 @@ This is a simple website showcasing EcoFlow's range of portable power stations. 
 
    ```bash
    git clone https://github.com/malikjunaidk00/CSS-3D-clickable-flip-cards.git
+2. Navigate to the project directory:
+   ```bash
+   cd ecoflow-products
+3. Open index.html in a web browser to view the website locally.
+4. Hover over each product card to see detailed information.
+5. Click the "Buy Now" button on a card to be redirected to the EcoFlow website for purchasing.
+
+# Credits
+- Product images and information sourced from [EcoFlow](https://us.ecolflow.com)
+- This project has been specially designed as a product sales for [Renhold Lime Light](https://github.com/Lime-Light-TechLead/)
+
+# Purpose
+- The purpose of this website is to fulfil the [Task 1: CSS 3D clickable flip cards ](https://github.com/Lime-Light-TechLead/CSS-3D-clickable-flip-cards)
